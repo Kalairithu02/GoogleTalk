@@ -6,4 +6,6 @@ PROJECT -1
 2) CHAT SCREEN
 3) LAST SEEN 
 4) ATTACHMENTS (IMAGES, AUDIO)
-5) video also added in this chart
+5) video also added in this chat
+
+6) hide last seen
