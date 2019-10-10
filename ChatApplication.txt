@@ -10,3 +10,6 @@ PROJECT -1
 6) hide last seen
 -----------------------------------
 7) audio and video file playing fine
+8)Status coding
+
+
